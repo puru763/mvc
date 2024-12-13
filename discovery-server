@@ -1,4 +1,6 @@
 server:
+  application:
+    name: discovery-server
   port: 8761
 
 eureka:
